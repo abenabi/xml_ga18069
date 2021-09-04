@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo2b.xml ga18069-->
+<?xml-stylesheet type="text/css" href="ejemplo2b.css"?>
+<pais nombre="El Salvador">
+  <departamento id="1" nombre="San Salvador" moneda="Dolor estadounidense, Bitcoin" codigo_area_telefonico="503" idioma="Español">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+  <departamento id="2" nombres="La Paz">
+    <habitantes>320,000</habitantes>
+    <altura>550 MSNM</altura>
+    <cabecera>Zacatecoluca</cabecera>
+    <area_territorial>1,223.61 km2</area_territorial>
+  </departamento>
+  <departamento id="3" nombres="La Libertad">
+    <habitantes>45,000</habitantes>
+    <altura>40 MSNM</altura>
+    <cabecera>La libertad</cabecera>
+    <area_territorial>162.61 km2</area_territorial>
+  </departamento>
+</pais>

@@ -1,0 +1,12 @@
+/*ejemplo1b.css ga18069*/
+fichero{background-color: blue;}
+ficha{background-color: red; display: block;}
+nombre{color: white; display: inline;}
+apellido{color: yellow; display: inline;}
+direccion{color: yellow; font-size: 1cm; display: none;}
+telefono{color: greenyellow;font-size: 0.5;display: inline;}
+email {color:linen;font-size:0.5 cm; display:inline;}
+url_website_personal{color:palegreen;font-size: 0.5cm; display:inline;}
+dui {color:springgreen;font-size:0.5 cm; display:inline;}
+isss {color:stalegray;font-size:0.5 cm; display:inline;}
+afp {color:pink;font-size:0.5 cm; display:inline;}

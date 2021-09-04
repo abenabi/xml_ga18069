@@ -1,0 +1,11 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":{
+			"@id":"1",
+			"@nombre":"San Salvador",
+			"habitantes":"1,700,000",
+			"altura":"545 MSNM"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"@moneda":"Dolor estadounidense, Bitcoin",
+				"@codigo_area_telefonico":"503",
+				"@idioma":"Español",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombres":"La Paz",
+				"habitantes":"320,000",
+				"altura":"550 MSNM",
+				"cabecera":"Zacatecoluca",
+				"area_territorial":"1,223.61 km2"
+			}
+		]
+	}
+}
